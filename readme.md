@@ -28,7 +28,7 @@ Ao encaçapar a bola branca, a bola do oponente de menor número disponível na 
 
 ## Condições do capote™
 
-Será considerado capote quando o perdedor não houver derrubador nenhuma de suas bolas durante a partida, como penalidade é obrigado a passar de joelhos por baixo da mesa, sem o direito de retirar o que estiver em baixo da mesa antes de passar.
+Será considerado capote quando o perdedor não houver derrubado nenhuma de suas bolas durante a partida, como penalidade é obrigado a passar de joelhos por baixo da mesa, sem o direito de retirar o que estiver em baixo da mesa antes de passar.
 
 Caso o perdedor tenha _derrubado_ bolas apenas em decorrência de faltas do oponente será ainda considerado capote.
 
